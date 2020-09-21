@@ -1,5 +1,5 @@
 # Tray.io Coding Challenge
-## For Solutions Engineer
+## For Solutions Architect
 
 ### How to Run
 * Clone the repo
